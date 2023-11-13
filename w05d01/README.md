@@ -11,6 +11,10 @@
 - [ ] Aggregation functions
 - [ ] `LIMIT` and `OFFSET`
 
+### Video
+
+[https://vimeo.com/884134109/b0b1d481bf](https://vimeo.com/884134109/b0b1d481bf)
+
 ### Relational Database Management System (RDBMS)
 
 - A program that serves, **and** controls interactions with, one or more _Relational Databases_
