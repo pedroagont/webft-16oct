@@ -1,0 +1,40 @@
+body {
+  background-color: royalblue;
+  color: white;
+
+  font-family: sans-serif;
+
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  padding: 1em;
+}
+
+.navbar {
+  background-color: lightgreen;
+  color: black;
+  padding: 1em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-brand {
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+.navbar-menu {
+  list-style-type: none;
+
+  display: flex;
+}
+
+.navbar-menu li {
+  margin-right: 1em;
+}
+
+
+
